@@ -1,0 +1,30 @@
+1.glowing neo buttons
+2.neumorphism login form
+3.responsive task management dashboard
+4.side navigation bar
+5.social media icons with tool tip on hover
+6.toggle neumorphism switch
+7.FAQ accordion section
+8.Game card hover effect
+9.dropmorphism
+10.responsive image gallery
+11.custom radio buttons
+12.responsive pricing card tables
+13.toggle on off switch button
+14.samsung watch clone
+15.neumorphic login form design
+16.Neumorphism Animation
+17.card reveal hover effect
+18.animated login and signup form
+19.awesome animated search bar
+20.animated search bar
+21.3D button hover animation
+22.Amazing profile cards design
+23.Button with Animated border
+24.Amazing profile card design
+25.image hover effect
+26.css button HOver effect
+27.css image hover effect
+28.Awesome css card hover effect
+29.Awesome css button hover effect
+30.Responsive css cards
